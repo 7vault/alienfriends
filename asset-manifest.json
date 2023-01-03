@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/alienfriends/static/css/main.270144a3.css",
+    "main.js": "/github.io/alienfriends/static/js/main.6769c004.js",
+    "static/js/787.4a346688.chunk.js": "/github.io/alienfriends/static/js/787.4a346688.chunk.js",
+    "index.html": "/github.io/alienfriends/index.html",
+    "main.270144a3.css.map": "/github.io/alienfriends/static/css/main.270144a3.css.map",
+    "main.6769c004.js.map": "/github.io/alienfriends/static/js/main.6769c004.js.map",
+    "787.4a346688.chunk.js.map": "/github.io/alienfriends/static/js/787.4a346688.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.270144a3.css",
+    "static/js/main.6769c004.js"
+  ]
+}
